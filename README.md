@@ -1,19 +1,6 @@
-<!-- 
-   CUIDADO 
-
-   Quando editar esse readme, tome cuidado com as tags <br/> 
-   elas são importantes para alinhar as imagens
--->
-
-
-<div align="center">
-   <img src=".github/brand.svg" height="90">
-</div>
 
 # Desafio web
 O desafio é criar uma aplicação de conversão de valores de dólar para real. 
-
-<img align="right" src=".github/currency.svg" width="370">
 
 A aplicação terá duas etapas, uma para inserir o valor que se deseja converter e outra para mostrar os valores convertidos.
 
@@ -32,7 +19,6 @@ A aplicação deve mostrar os seguintes dados:
 
 ## Cálculo dos valores 
 
-<img align="left" src=".github/calculate.svg" width="250">
 
 ### Comprando com dinheiro 
 
@@ -53,11 +39,6 @@ A aplicação deve mostrar os seguintes dados:
 
 <br/>
 
-## Layout
-O layout está disponível no [figma][FIGMA_URL]
-
-[![figma-layout][FIGMA-IMAGE]][FIGMA_URL]
-
 ## Requisitos
 - Utilize a fonte do layout
 - Utilize React
@@ -66,14 +47,11 @@ O layout está disponível no [figma][FIGMA_URL]
 - Faça testes unitários dos seus componentes
 - Utilize uma bilbioteca de cache como swr ou react-query
 - Utlize styled-components
-- Publique sua aplicação em uma plataforma de deploy rápido ([vercel](https://zeit.co/)/[heroku](https://www.heroku.com)/[netlify](https://www.netlify.com)/outros)
 - Publique seu código no seu perfil no GitHub em um **repositório privado**
 
 <br/>
 
 ## Critérios de avaliação 
-
-<img align="right" src=".github/closed-fist.svg" width="90">
 
 ### Entrega
 - O resultado final está completo para ser executado?
@@ -81,15 +59,11 @@ O layout está disponível no [figma][FIGMA_URL]
 - O resultado final atende totalmente aos requisitos propostos?
 - O resultado final é visualmente elegante?
 
-<img align="right" src=".github/thumbs-up.svg" width="90">
-
 ### Boas práticas
 - O código está de acordo com o guia de estilo da linguagem?
 - O código está bem estruturado?
 - O código faz o bom uso de *Design Patterns*?
 - O código possui testes?
-
-<img align="right" src=".github/document.svg" width="90">
 
 ### Documentação
 - O código foi entregue com um arquivo de _README_ claro de como instalar e codificar no projeto?
