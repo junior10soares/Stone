@@ -19,9 +19,7 @@ A aplicação deve mostrar os seguintes dados:
 
 ## Cálculo dos valores 
 
-
 ### Comprando com dinheiro 
-
 
 `[(Valor em dólar) + (imposto do Estado)] x (valor do dólar + IOF da compra de dólar)`
 
@@ -77,14 +75,3 @@ A aplicação deve mostrar os seguintes dados:
 ### **Material de estudo**
 - [Boas Práticas na Stone](https://github.com/stone-payments/stoneco-best-practices/blob/master/README_pt.md)
 - [Airbnb Javascript](https://github.com/airbnb/javascript)
-
-
-<!-- ~VARS~ -->
-<!-- API -->
-[QUOTATION_API]: https://docs.awesomeapi.com.br/api-de-moedas
-
-<!-- URLS -->
-[FIGMA_URL]: https://www.figma.com/file/y8IcDbllfaFAzXrEXR05PE/Teste-Front-Web-Stone
-
-<!-- ASSETS -->
-[FIGMA-IMAGE]: .github/figma-desafio.png
